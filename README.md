@@ -11,8 +11,8 @@
 <!--  Git Stats -->
 <div align="center">
   <a href="https://github.com/anjinhodc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaueFidelis&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauefidelis&layout=compact&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjinho&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjinho&layout=compact&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=c9d1d9"/>
   </a>
 </div>
 <!-- /Git Stats -->
